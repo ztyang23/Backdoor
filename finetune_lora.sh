@@ -3,8 +3,8 @@
 # ============================================================
 # Config: edit these paths before running
 # ============================================================
-CKPT_BASE=/apdcephfs_jn3/share_302243908/zhantaoyang/ckpt/llavabr
-DATA_BASE=/apdcephfs_cq10/share_1367250/zhantaoyang
+CKPT_BASE=
+DATA_BASE=
 
 MODEL_PATH=${CKPT_BASE}/llava-v1.5-7b
 VISION_TOWER=${CKPT_BASE}/clip-vit-large-patch14-336
